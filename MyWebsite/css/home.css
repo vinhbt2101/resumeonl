@@ -1,0 +1,67 @@
+.bg-1{
+    background-color: #58b368; /* Green */
+    color: #ffffff;
+}
+.bg-2{
+    background-color: white; /* Green */
+    color: #666;
+}
+.bg-3{
+    background-color: white; /* Green */
+    color: #666;
+}
+.container-fluid{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+p{
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.margin {
+    margin-bottom: 30px;
+    margin-top:30px;}
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size:14px;
+    letter-spacing: 5px;
+  }
+  
+  .navbar-nav li a:hover {
+    color: #1abc9c !important;
+  }  
+  .a_fixed{
+    color:#666;
+    
+  }
+  body{
+    font: 20px "Montserrat", sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+.col-sm-4{
+    width:25%;
+    
+}
+.col-sm-8{
+    margin-top:45px;
+    margin-left:45px;
+    padding: 30px;
+    border-left: 2px solid #ff502f;
+}
+.col-sm-12{
+    padding:0 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+.noidung{
+    display: inline-block;
+    background: #f2f4d1;
+    text-align: left;
+    color: #666;    
+}
